@@ -1,2 +1,6 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+remote_theme: pages-themes/minimal
+plugins:
+- jekyll-remote-theme
 title: Anthony Brown's Teaching Demos
+description: Online demo's to support teaching
