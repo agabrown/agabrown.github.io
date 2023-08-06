@@ -1,6 +1,7 @@
-#theme: jekyll-theme-slate
 remote_theme: pages-themes/minimal
 plugins:
 - jekyll-remote-theme
-title: Anthony Brown's Teaching Demos
-description: Online demo's to support teaching
+title: Anthony Brown's pages
+description: 
+  This site links to my teaching demos and other projects that I maintain on Github
+github_username: agabrown
